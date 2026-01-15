@@ -1,0 +1,8 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.settings/
+.project
+.classpath
+.factorypath
+.springBeans
+.sts4-cache
