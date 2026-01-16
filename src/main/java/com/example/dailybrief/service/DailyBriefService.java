@@ -17,9 +17,9 @@ public class DailyBriefService {
     private final RestTemplate restTemplate;
 
     // API KEYS - Recommended: Move these to environment variables or application.properties
-    private final String NEWS_API_KEY = "5175a3436206456a9a31cd4ce8fe245f"; 
-    private final String GROQ_API_KEY = "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"; 
-    private final String WEATHER_API_KEY = "dba45c9a70034315131504fee1d6af55";
+    private final String NEWS_API_KEY = "Your API Key"; 
+    private final String GROQ_API_KEY = "Your API Key"; 
+    private final String WEATHER_API_KEY = "Your API Key";
 
     public DailyBriefService(RestTemplate restTemplate) {
         this.restTemplate = restTemplate;
